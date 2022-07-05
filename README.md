@@ -2,12 +2,9 @@ Lang Party Summer 2022
 ===
 
 <p align="center">
-  <p>
-    <b>Write a language with Racket this summer! Win prizes!</b>
-  </p>
+  <b>Write a language with Racket this summer! Win prizes!</b>
   <img width="200" src="src/logo.png">
-  <p>
-    <a href="https://github.com/lang-party/Summer2022"><tt>https://github.com/lang-party/Summer2022</tt></a>
+  <a href="https://github.com/lang-party/Summer2022"><tt>https://github.com/lang-party/Summer2022</tt></a>
 </p>
 
 
