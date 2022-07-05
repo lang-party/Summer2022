@@ -1,13 +1,15 @@
 Lang Party Summer 2022
 ===
 
-**Write a language with Racket this summer! Win prizes!**
-
 <p align="center">
+  <p>
+    <b>Write a language with Racket this summer! Win prizes!</b>
+  </p>
   <img width="200" src="src/logo.png">
+  <p>
+    <a href="https://github.com/lang-party/Summer2022"><tt>https://github.com/lang-party/Summer2022</tt></a>
 </p>
 
-<https://github.com/lang-party/Summer2022>
 
 Topics include but are not limited to: Macros, Static typing, Rhombus,
 Rosette-based, Turnstile-based, Internal DSL, External DSL, Block-based,
@@ -17,7 +19,7 @@ level, Lsp/langserver support, EMACS support, VIM support, VScode support,
 raco tool, custodians, impersonators, will executors, and dye packs.
 
 
-#### Ground Rules
+### Ground Rules
 
 Any language counts as long as you helped to make it. Big or small, brand new
 or recently improved.
@@ -32,7 +34,7 @@ Everyone is welcome. Be good. Follow the Racket Friendly Environment Policy:
  <https://racket-lang.org/friendly.html>
 
 
-#### How to Submit
+### How to Submit
 
 Submissions, rough ideas, and requests for help are all welcome on the
 `lang-party/Summer2022` repo issue tracker. Here are two quick start links:
@@ -43,7 +45,7 @@ Submissions, rough ideas, and requests for help are all welcome on the
   <https://github.com/lang-party/Summer2022/issues/new?assignees=&labels=lang-request&template=lang-request.md&title=%5BLang+Request%5D+...>
 
 
-#### Fine Print
+### Fine Print
 
 This is an unofficial event run by Racket users (@spdegabrielle and @bennn)
 
@@ -53,7 +55,7 @@ For the text in each submission, however, we ask that you license it
 as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 
-#### Further Reading
+### Further Reading
 
 This is a tiny list. Suggestions welcome!
 
