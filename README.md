@@ -3,8 +3,12 @@ Lang Party Summer 2022
 
 <p align="center">
   <b>Write a language with Racket this summer! Win prizes!</b>
-  <img width="200" src="src/logo.png">
+  </br>
+  <img width="200" alt="image of a tower by Jean Samet with the Racket logo superimposed" src="src/logo.png">
+  </br>
   <a href="https://github.com/lang-party/Summer2022"><tt>https://github.com/lang-party/Summer2022</tt></a>
+  </br>
+  Image credit: <a href="https://en.wikipedia.org/wiki/Jean_E._Sammet">Jean Samet</a>
 </p>
 
 
@@ -44,7 +48,7 @@ Submissions, rough ideas, and requests for help are all welcome on the
 
 ### Fine Print
 
-This is an unofficial event run by Racket users (@spdegabrielle and @bennn)
+This is an unofficial event run by Racket users ([@spdegabrielle](https://github.com/spdegabrielle) and [@bennn](https://github.com/bennn))
 
 Submitted languages may use any software license.
 
