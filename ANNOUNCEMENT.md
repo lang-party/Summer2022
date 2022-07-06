@@ -21,15 +21,16 @@ Everyone is welcome. Be good. Follow the Racket Friendly Environment Policy:
 
 ### How to Submit
 
-https://github.com/lang-party/Summer2022
+Submissions are accepted in any forum where Racket discussions happen.
+Announce your language, make sure Ben and/or Stephen see it, and you're in.
 
-Submissions, rough ideas, and requests for help are all welcome on the issue
-tracker. Here are two quick start links:
+The easiest way to make an announcement is to post an issue to the repo for
+this event:
 
-- Ready to submit? Click here:
   https://github.com/lang-party/Summer2022/issues/new?assignees=&labels=&template=enter-the-lang-party.md&title=%5Bentry+-+name%2Fdescription+of+language%5D
 
-- Have an idea to share? Click here:
+Rough ideas and requests for help are welcome too:
+
   https://github.com/lang-party/Summer2022/issues/new?assignees=&labels=lang-request&template=lang-request.md&title=%5BLang+Request%5D+...
 
 
