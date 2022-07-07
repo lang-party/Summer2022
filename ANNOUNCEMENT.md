@@ -24,8 +24,7 @@ Everyone is welcome. Be good. Follow the Racket Friendly Environment Policy:
 Submissions are accepted in any forum where Racket discussions happen.
 Announce your language, make sure Ben and/or Stephen see it, and you're in.
 
-The easiest way to make an announcement is to post an issue to the repo for
-this event:
+We recommend submitting via this link:
 
   https://github.com/lang-party/Summer2022/issues/new?assignees=&labels=&template=enter-the-lang-party.md&title=%5Bentry+-+name%2Fdescription+of+language%5D
 

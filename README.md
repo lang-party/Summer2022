@@ -38,10 +38,10 @@ Everyone is welcome. Be good. Follow the Racket Friendly Environment Policy:
 ### How to Submit
 
 Submissions are accepted in any forum where Racket discussions happen.
-Announce your language, make sure Ben and/or Stephen see it, and you're in.
+Announce your language, make sure [Ben](https://github.com/bennn)
+and/or [Stephen](https://github.com/spdegabrielle) see it, and you're in.
 
-The easiest way to make an announcement is to post an issue to the repo for
-this event:
+We recommend submitting via a GitHub issue in this repo:
 
   <https://github.com/lang-party/Summer2022/issues/new?assignees=&labels=&template=enter-the-lang-party.md&title=%5Bentry+-+name%2Fdescription+of+language%5D>
 
@@ -56,7 +56,7 @@ This is an unofficial event run by Racket users ([@spdegabrielle](https://github
 
 Submitted languages may use any software license.
 
-For the text in each submission, however, we ask that you license it
+For the text in each submission, we ask that you license it
 as [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 
