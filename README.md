@@ -4,11 +4,11 @@ Lang Party Summer 2022
 <p align="center">
   <b>Write a language with Racket this summer! Win prizes!</b>
   </br>
-  <img width="200" alt="image of a tower by Jean Samet with the Racket logo superimposed" src="src/logo.png">
+  <img width="200" alt="image of a tower by Jean Sammet with the Racket logo superimposed" src="src/logo.png">
   </br>
   <a href="https://github.com/lang-party/Summer2022"><tt>https://github.com/lang-party/Summer2022</tt></a>
   </br>
-  Image credit: <a href="https://en.wikipedia.org/wiki/Jean_E._Sammet">Jean Samet</a>
+  Image credit: <a href="https://en.wikipedia.org/wiki/Jean_E._Sammet">Jean Sammet</a>
 </p>
 
 
