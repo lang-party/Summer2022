@@ -29,6 +29,8 @@ Submit as many times as you like.
 
 Limit 1 prize per participant. Prizes TBD.
 
+Teams welcome.
+
 Open until October 1.
 
 Everyone is welcome. Be good. Follow the Racket Friendly Environment Policy:
