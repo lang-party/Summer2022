@@ -12,12 +12,13 @@ Lang Party Summer 2022
 </p>
 
 
-Topics include but are not limited to: Macros, Static typing, Rhombus,
+Be creative and have fun! All kinds of languages are welcome. Potential
+`#lang` topics include but are not limited to: Macros, Static typing, Rhombus,
 Rosette-based, Turnstile-based, Internal DSL, External DSL, Block-based,
 Non-textual, Targets JavaScript, Targets WebAssembly, Targets LLVM,
 Heterogeneous targets Interpreter, Compiler, Joke/funny, Tooling, Language
 level, Lsp/langserver support, EMACS support, VIM support, VScode support,
-raco tool, custodians, impersonators, will executors, and dye packs.
+`raco` Tool, Custodians, Impersonators, Will executors, and Dye Packs.
 
 
 ### Ground Rules
