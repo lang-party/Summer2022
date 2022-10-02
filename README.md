@@ -21,6 +21,14 @@ level, Lsp/langserver support, EMACS support, VIM support, VScode support,
 `raco` Tool, Custodians, Impersonators, Will executors, and Dye Packs.
 
 
+### Update 2022-10-02
+
+The lang-party is over.
+Take a look at the great entries here: <https://github.com/lang-party/Summer2022/issues>
+
+Many thanks to the participants!
+
+
 ### Ground Rules
 
 Any language counts as long as you helped to make it. Big or small, brand new
