@@ -1,6 +1,8 @@
 Lang Party Summer 2022
 ===
 
+[_A community-led Racket event. Click to see others past & future._](https://docs.google.com/document/d/1OAGSAXk7AfhVLEcjyeihh2IXKX9ZhUM0ZvKnObP6kxk/edit#)
+
 <p align="center">
   <b>Write a language with Racket this summer! Win prizes!</b>
   </br>
